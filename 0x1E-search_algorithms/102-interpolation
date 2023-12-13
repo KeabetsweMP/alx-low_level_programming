@@ -1,0 +1,10 @@
+Value checked array[6] = [2]
+Value checked array[7] = [3]
+Found 3 at index: 7
+
+Value checked array[14] = [7]
+Found 7 at index: 14
+
+Value checked array[2109] is out of range
+Found 999 at index: -1
+
